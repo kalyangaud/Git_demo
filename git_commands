@@ -14,5 +14,7 @@ git remote add origin <URL>
 git remote -v
 git push origin master 
 git clone <URL>
+
+These are some new changes in my file 
                                                         
  
