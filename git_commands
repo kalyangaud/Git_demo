@@ -1,0 +1,18 @@
+git init
+git status                                                           
+git add testing.py                                                   
+git status                                                           
+git status                                                           
+git add testing.py                                                   
+git status                                                           
+git commit -m "Added testing files"                                  
+rm testing.py                                                        
+git status                                                           
+git restore testing.py                                               
+git status  
+git remote add origin <URL>
+git remote -v
+git push origin master 
+git clone <URL>
+                                                        
+ 
