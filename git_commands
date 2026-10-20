@@ -16,6 +16,7 @@ git push origin master
 git clone <URL>
 
 These are some new changes in my file 
+
 git branch
 git branch <branch_name>
 git switch <branch_name>
