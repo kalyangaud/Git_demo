@@ -21,6 +21,9 @@ git branch
 git branch <branch_name>
 git switch <branch_name>
 git push origin <branch>
+git pull origin <branch> 
+git checkout -B <branch_name>
+( The alternative way to switch branches)                                                       
 git pull origin <branch>   
 git checkout -B <branch_name>
 ( The alternative way to switch branches)
